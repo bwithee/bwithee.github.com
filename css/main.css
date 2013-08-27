@@ -1,2 +1,24 @@
-a {
+body {
+   background-color: #99b1e4;
+}
+
+p {
+   font-family: Verdana;
+   color: red;
+}
+
+.hobbies {
+   font-size: 15px;
+   color: white;
+   background-color: purple;
+}
+
+#songs {
+   font-size: 20px;
+   color: blue;
+   background-color: brown;
+}
+
+.mon {
+   background-color:orange;
 }
